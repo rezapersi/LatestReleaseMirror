@@ -157,5 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="cloudflare--cloudflared"></div>
 
+### cloudflare--cloudflared
+
+🔗 [source](https://github.com/cloudflare/cloudflared) – [<code><small>2026.3.0</small></code>](https://github.com/cloudflare/cloudflared/releases/tag/2026.3.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `cloudflared-linux-amd64` | 37.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rezapersi/LatestReleaseMirror/main/releases/cloudflare/cloudflared/cloudflared-linux-amd64) |
+| `cloudflared-linux-amd64.deb` | 18.4 MB | [⬇️ Download](https://raw.githubusercontent.com/rezapersi/LatestReleaseMirror/main/releases/cloudflare/cloudflared/cloudflared-linux-amd64.deb) |
 <!-- RELEASES_END -->
